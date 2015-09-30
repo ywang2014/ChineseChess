@@ -1,26 +1,7 @@
 # ChineseChess
 
-Skip to content
-This repository
-
-    Pull requests
-    Issues
-    Gist
-
-    @ywang2014
-
-1
-0
-
-    4
-
 ywang2014/ChineseChess forked from zhijie/ChineseChess
 
-ChineseChess/ReadMe.txt
-@zhijie zhijie on 1 Mar 2012 base code
-
-1 contributor
-92 lines (59 sloc) 3.38 KB
 ================================================================================
 MICROSOFT 基础类库: ChineseChess 项目概述
 ===============================================================================
